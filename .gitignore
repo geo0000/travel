@@ -2,7 +2,7 @@
 .idea
 .vagrant
 backup
-index.html
+#index.html
 docroot/build_reports
 docroot/commentinfo.md
 .DS_Store
